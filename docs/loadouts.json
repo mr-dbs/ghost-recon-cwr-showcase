@@ -1,0 +1,2606 @@
+[
+  {
+    "class": "DBS_GR_C0002",
+    "name": "US DEMO AT4",
+    "old_weapons": [
+      "DBS_GR13_M4",
+      "DBS_GR13_AT",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W033",
+      "DBS_GR_W022",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W022",
+      "DBS_GR_W022",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0005",
+    "name": "US RIFLEMAN M203",
+    "old_weapons": [
+      "DBS_GR13_M16M203",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0008",
+    "name": "US SNIPER M24",
+    "old_weapons": [
+      "DBS_GR13_M24",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W031",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0011",
+    "name": "US SUPPORT M249",
+    "old_weapons": [
+      "DBS_GR13_M249",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W032",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0012",
+    "name": "US MARINE GRENADIER M203",
+    "old_weapons": [
+      "DBS_GR13_M16M203",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0015",
+    "name": "US MARINE RIFLEMAN",
+    "old_weapons": [
+      "DBS_GR13_M4",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W033",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0018",
+    "name": "US MARINE SNIPER M24",
+    "old_weapons": [
+      "DBS_GR13_M24",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W031",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0021",
+    "name": "US MARINE SUPPORT M249",
+    "old_weapons": [
+      "DBS_GR13_M249",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W032",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0024",
+    "name": "CUBAN IRREGULAR AK-74",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0027",
+    "name": "CUBAN IRREGULAR AKM",
+    "old_weapons": [
+      "DBS_GR13_AKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0030",
+    "name": "CUBAN IRREGULAR AKS-74",
+    "old_weapons": [
+      "DBS_GR13_AKS74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0033",
+    "name": "CUBAN IRREGULAR RPG",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0036",
+    "name": "CUBAN IRREGULAR PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0039",
+    "name": "CUBAN IRREGULAR SVD",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0042",
+    "name": "CUBAN IRREGULAR RPK-74",
+    "old_weapons": [
+      "DBS_GR13_RPK",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0045",
+    "name": "CUBAN IRREGULAR SA-7",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "DBS_GR22_SA7",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "AALauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "AALauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0048",
+    "name": "CUBAN REGULAR GRENADIER GP-25",
+    "old_weapons": [
+      "DBS_GR13_AK74GP25",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0051",
+    "name": "CUBAN REGULAR RIFLEMAN (CAMO)",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0054",
+    "name": "CUBAN REGULAR RIFLEMAN (GREEN)",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0057",
+    "name": "CUBAN REGULAR OFFICER",
+    "old_weapons": [
+      "DBS_GR22_AK74Scope",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0060",
+    "name": "CUBAN REGULAR RADIOMAN",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0063",
+    "name": "CUBAN REGULAR SNIPER SVD",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0066",
+    "name": "CUBAN REGULAR SNIPER SVD (GREEN)",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0069",
+    "name": "CUBAN REGULAR TANKER",
+    "old_weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0072",
+    "name": "FARC RIFLEMAN 1",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0075",
+    "name": "FARC RIFLEMAN 2",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0078",
+    "name": "FARC RIFLEMAN 3",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0081",
+    "name": "FARC OFFICER",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0084",
+    "name": "ORDONEZ",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0087",
+    "name": "PRIEGO",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0092",
+    "name": "HAROLD GORDON",
+    "old_weapons": [
+      "DBS_GR13_M16M203",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0095",
+    "name": "HENRY RAMIREZ",
+    "old_weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0098",
+    "name": "JACK STONE",
+    "old_weapons": [
+      "DBS_GR13_L96",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W026",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0101",
+    "name": "KLAUS HENKEL",
+    "old_weapons": [
+      "DBS_GR13_MG3",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W037",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0104",
+    "name": "SUSAN GREY",
+    "old_weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0107",
+    "name": "WILL JACOBS",
+    "old_weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W024",
+      "DBS_GR_W024",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0108",
+    "name": "US DEMO AT4",
+    "old_weapons": [
+      "DBS_GR13_M4",
+      "DBS_GR13_AT",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W033",
+      "DBS_GR_W022",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W022",
+      "DBS_GR_W022",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0111",
+    "name": "US PEACEKEEPER",
+    "old_weapons": [
+      "DBS_GR13_M16",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W027",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0114",
+    "name": "US RIFLEMAN M203",
+    "old_weapons": [
+      "DBS_GR13_M16M203",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0117",
+    "name": "US SNIPER M24",
+    "old_weapons": [
+      "DBS_GR13_M24",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W031",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "DBS_GR_W031",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0120",
+    "name": "US SUPPORT M249",
+    "old_weapons": [
+      "DBS_GR13_M249",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W032",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "DBS_GR_W032",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0123",
+    "name": "UN PEACEKEEPER",
+    "old_weapons": [
+      "DBS_GR_W045",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W045",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0126",
+    "name": "US DOWN HELO PILOT 1",
+    "old_weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0129",
+    "name": "US DOWN HELO PILOT 2",
+    "old_weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0132",
+    "name": "US DOWN JET PILOT",
+    "old_weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0135",
+    "name": "US POW 1",
+    "old_weapons": [],
+    "weapons": [],
+    "magazines": []
+  },
+  {
+    "class": "DBS_GR_C0138",
+    "name": "US POW 2",
+    "old_weapons": [],
+    "weapons": [],
+    "magazines": []
+  },
+  {
+    "class": "DBS_GR_C0141",
+    "name": "US SOLDIER",
+    "old_weapons": [
+      "DBS_GR13_M16",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W027",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "DBS_GR_W027",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0144",
+    "name": "US TANKER",
+    "old_weapons": [
+      "DBS_GR13_M4",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W033",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "DBS_GR_W033",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0147",
+    "name": "GEORGIAN REBEL AK-74",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0150",
+    "name": "GEORGIAN REBEL AKM 1",
+    "old_weapons": [
+      "DBS_GR13_AKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0153",
+    "name": "GEORGIAN REBEL GRENADIER GP-25",
+    "old_weapons": [
+      "DBS_GR13_AK74GP25",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0156",
+    "name": "GEORGIAN REBEL RPG",
+    "old_weapons": [
+      "DBS_GR13_AKM",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0159",
+    "name": "GEORGIAN REBEL PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0162",
+    "name": "GEORGIAN REBEL AKM 2",
+    "old_weapons": [
+      "DBS_GR13_AKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0165",
+    "name": "GEORGIAN REBEL OFFICER",
+    "old_weapons": [
+      "DBS_GR13_AKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0168",
+    "name": "RUSSIAN NORTH RIFLEMAN AK-74M",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0171",
+    "name": "RUSSIAN NORTH SUPPORT PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0172",
+    "name": "RUSSIAN NORTH AT RPG 1",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0177",
+    "name": "RUSSIAN NORTH OFF DUTY",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0180",
+    "name": "RUSSIAN NORTH GRENADIER GP-25 1",
+    "old_weapons": [
+      "DBS_GR22_AK74MGL",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0183",
+    "name": "RUSSIAN NORTH OFFICER",
+    "old_weapons": [
+      "DBS_GR42_AK_Signal",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0186",
+    "name": "RUSSIAN NORTH RADIOMAN",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0189",
+    "name": "RUSSIAN NORTH AT RPG 2",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0192",
+    "name": "RUSSIAN NORTH GRENADIER GP-25 2",
+    "old_weapons": [
+      "DBS_GR22_AK74MGL",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0195",
+    "name": "RUSSIAN NORTH OFFICER (OFF DUTY)",
+    "old_weapons": [
+      "DBS_GR42_AK_Signal",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0198",
+    "name": "RUSSIAN NORTH OFFICER (LIGHT KIT)",
+    "old_weapons": [
+      "DBS_GR42_AK_Signal",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0201",
+    "name": "RUSSIAN NORTH GUNNER PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0204",
+    "name": "RUSSIAN NORTH SNIPER SVD",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0207",
+    "name": "RUSSIAN NORTH TANKER",
+    "old_weapons": [
+      "DBS_GR22_AKMS",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W018",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "DBS_GR_W018",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0210",
+    "name": "RUSSIAN SOUTH RIFLEMAN AK-74M",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0213",
+    "name": "RUSSIAN SOUTH AKS-74 PSO-1",
+    "old_weapons": [
+      "DBS_GR22_AK74Scope",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0214",
+    "name": "RUSSIAN SOUTH AK-74M PSO-1",
+    "old_weapons": [
+      "DBS_GR22_AK74MScope",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0219",
+    "name": "RUSSIAN SOUTH OFFICER AKM SUPPRESSED",
+    "old_weapons": [
+      "DBS_GR42_AKM_SD_Signal",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0222",
+    "name": "RUSSIAN SOUTH RADIOMAN",
+    "old_weapons": [
+      "DBS_GR13_AK74",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0225",
+    "name": "RUSSIAN SOUTH GRENADIER GP-25 SUPPRESSED",
+    "old_weapons": [
+      "DBS_GR22_AKGLSD",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0228",
+    "name": "RUSSIAN SOUTH GUNNER PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0231",
+    "name": "RUSSIAN SOUTH SNIPER SVD",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0234",
+    "name": "RUSSIAN SOUTH TANKER",
+    "old_weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0237",
+    "name": "RUSSIAN WINTER RIFLEMAN AK-74M",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0240",
+    "name": "RUSSIAN WINTER SUPPORT PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0241",
+    "name": "RUSSIAN WINTER AT RPG 1",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0246",
+    "name": "RUSSIAN WINTER GRENADIER GP-25 1",
+    "old_weapons": [
+      "DBS_GR22_AK74MGL",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0249",
+    "name": "RUSSIAN WINTER OFFICER",
+    "old_weapons": [
+      "DBS_GR42_AK_Signal",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0252",
+    "name": "RUSSIAN WINTER RADIOMAN",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0255",
+    "name": "RUSSIAN WINTER AKS-74 PSO-1 SUPPRESSED",
+    "old_weapons": [
+      "DBS_GR22_AK74SDScope",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0258",
+    "name": "RUSSIAN WINTER AT RPG 2",
+    "old_weapons": [
+      "DBS_GR22_AK74M",
+      "DBS_GR22_RPG",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "RPGLauncher",
+      "RPGLauncher",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0261",
+    "name": "RUSSIAN WINTER AK-74M PSO-1",
+    "old_weapons": [
+      "DBS_GR22_AK74MScope",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W019",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "DBS_GR_W019",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0264",
+    "name": "RUSSIAN WINTER GRENADIER GP-25 2",
+    "old_weapons": [
+      "DBS_GR22_AK74MGL",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0267",
+    "name": "RUSSIAN WINTER OFFICER (OFF DUTY)",
+    "old_weapons": [
+      "DBS_GR42_AKM_SD_Signal",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0270",
+    "name": "RUSSIAN WINTER OFFICER (LIGHT KIT)",
+    "old_weapons": [
+      "DBS_GR42_AK_Signal",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W020",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W020",
+      "DBS_GR_W025",
+      "DBS_GR_W025",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0273",
+    "name": "RUSSIAN WINTER GUNNER PKM",
+    "old_weapons": [
+      "DBS_GR13_PKM",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0276",
+    "name": "RUSSIAN WINTER SNIPER SVD",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0279",
+    "name": "RUSSIAN WINTER TANKER",
+    "old_weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "weapons": [
+      "DBS_GR_W021",
+      "Throw",
+      "Put",
+      "Binocular"
+    ],
+    "magazines": [
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "DBS_GR_W021",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0282",
+    "name": "ASTRA GALINSKY",
+    "old_weapons": [
+      "DBS_GR13_SVD",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W023",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "DBS_GR_W023",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0285",
+    "name": "HAROLD GORDON",
+    "old_weapons": [
+      "DBS_GR13_M16M203",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0288",
+    "name": "DIETER MUNZ",
+    "old_weapons": [
+      "DBS_GR13_MG3",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W037",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "DBS_GR_W037",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0291",
+    "name": "GURAM OSADZE",
+    "old_weapons": [
+      "DBS_GR13_RPK",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W043",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "DBS_GR_W043",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0294",
+    "name": "HENRY RAMIREZ",
+    "old_weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W039",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "DBS_GR_W039",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0297",
+    "name": "JACK STONE",
+    "old_weapons": [
+      "DBS_GR22_G22",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W026",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "DBS_GR_W026",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0300",
+    "name": "KLAUS HENKEL",
+    "old_weapons": [
+      "DBS_GR22_MP5N",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0303",
+    "name": "LINDY COHEN",
+    "old_weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W024",
+      "DBS_GR_W024",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0306",
+    "name": "NIGEL TUNNEY",
+    "old_weapons": [
+      "DBS_GR_W045",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W045",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "DBS_GR_W045",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0309",
+    "name": "SCOTT IBRAHIM",
+    "old_weapons": [
+      "DBS_GR13_M82",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W034",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W034",
+      "DBS_GR_W034",
+      "DBS_GR_W034",
+      "DBS_GR_W034",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0312",
+    "name": "SUSAN GREY",
+    "old_weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W038",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "DBS_GR_W038",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR_C0315",
+    "name": "WILL JACOBS",
+    "old_weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W042",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W042",
+      "DBS_GR_W024",
+      "DBS_GR_W024",
+      "HandGrenade"
+    ]
+  },
+  {
+    "class": "DBS_GR42_W_Leader",
+    "name": "US GR SQUAD LEADER",
+    "old_weapons": [
+      "DBS_GR42_W_Signal",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "weapons": [
+      "DBS_GR_W028",
+      "Throw",
+      "Put",
+      "Binocular",
+      "NVGoggles"
+    ],
+    "magazines": [
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W028",
+      "DBS_GR_W030",
+      "DBS_GR_W030",
+      "HandGrenade"
+    ]
+  }
+]

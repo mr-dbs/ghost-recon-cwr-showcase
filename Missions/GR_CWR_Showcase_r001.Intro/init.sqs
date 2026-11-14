@@ -1,0 +1,11 @@
+setViewDistance 1400
+0 setFog 0
+0 setOvercast .1
+~.5
+{_x disableAI "ANIM";_x disableAI "MOVE";_x disableAI "TARGET";_x disableAI "AUTOTARGET"} forEach [showSupport,showDemo,showJacobs,showSniper,showRussian,showBIS]
+showSupport switchMove "Lying"
+showDemo switchMove "GR16_CrouchIdle2"
+showJacobs switchMove "Combat"
+showSniper switchMove "Crouch"
+showRussian switchMove "Combat"
+hint "GR Conversion - CW:R compatibility preview. Characters retain the GR rig and custom movement. Native GR weapons, no ECP/RHS/BAS/BWmod/MFCTI. Walk around the lineup; use the editor to try units and movement. This is a local test candidate, not a validated public release."

@@ -1,0 +1,37 @@
+{
+  "files": [
+    "weapons.hpp",
+    "objects/w0119.p3d",
+    "objects/w0120.p3d"
+  ],
+  "visual_translation": [
+    0,
+    -0.13,
+    0
+  ],
+  "muzzle_axis": [
+    0,
+    0,
+    -1
+  ],
+  "geometry_topology_normals_textures_unchanged": true,
+  "animation_and_body_files_unchanged": true,
+  "tested_stock_engine": "3.03",
+  "runtime": {
+    "shots": [
+      {
+        "weapon": "DBS_GR_W022",
+        "before": 2,
+        "after": 3,
+        "native_fired_event": true
+      },
+      {
+        "weapon": "DBS_GR_W044",
+        "before": 3,
+        "after": 4,
+        "native_fired_event": true
+      }
+    ],
+    "note": "Native fired events verified. nearestObject does not enumerate projectiles here; no false projectile position/target-impact claim. Forward axis validated from muzzle/bore memory convention and model data."
+  }
+}

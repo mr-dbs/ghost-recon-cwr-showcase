@@ -1,0 +1,13 @@
+# Generated builds and personal runtime state
+.runtime/
+Runtime/
+Build/
+Dist/
+@DBS_GR_Showcase/
+*.pbo
+*.zip
+*.log
+*.dmp
+*.exe
+*.dll
+__pycache__/
