@@ -1,6 +1,6 @@
 # Ghost Recon conversion for CW:R — r002 test build
 
-Private testing project bringing Ghost Recon characters, their custom animation rig, movement and idle poses to Arma: Cold War Assault Remastered. Uses the public game executable: no custom engine, ECP, RHS, BAS, BWmod or MFCTI is required.
+Private testing project bringing Ghost Recon characters, their custom animation rig, movement and idle poses to Arma: Cold War Assault Remastered. Uses the public game executable: This version is missing other addons ECP, RHS, BAS, BWmod or MFCTI. Those addons were test for visual enhancements but increased the size of the addon into the gigs.
 
 ## Play the test build
 
