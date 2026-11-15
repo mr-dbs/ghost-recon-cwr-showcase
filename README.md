@@ -1,10 +1,38 @@
-# Ghost Recon conversion for CW:R — r002 test build
+# Ghost Recon conversion for CW:R â€” r002 test build
 
-Private testing project bringing Ghost Recon characters, their custom animation rig, movement and idle poses to Arma: Cold War Assault Remastered. Uses the public game executable: This version is missing other addons ECP, RHS, BAS, BWmod or MFCTI. Those addons were test for visual enhancements but increased the size of the addon into the gigs.
+![US and Russian soldiers staged in Montignac](docs/media/town-banner.jpg)
+
+**107 character entries · Custom GR rig and animations · Native GR weapons · Stock CW:R**
+
+[**Download r002**](https://github.com/mr-dbs/ghost-recon-cwr-showcase/releases/tag/r002) · [Installation](#play-the-test-build) · [Known limits](#validation-and-known-limits) · [Report a bug](https://github.com/mr-dbs/ghost-recon-cwr-showcase/issues/new/choose)
+
+A conversion project bringing Ghost Recon characters, their custom animation rig, movement and idle poses to Arma: Cold War Assault Remastered. Uses the public game executable: This version is missing other addons ECP, RHS, BAS, BWmod or MFCTI. Those addons were test for visual enhancements but increased the size of the addon into the gigs.
+
+## In game
+
+### BIS Officer and Will Jacobs
+
+![Default BIS WEST Officer on the left; Will Jacobs with the native GR OICW on the right](docs/media/officer-jacobs.jpg)
+
+Default BIS WEST Officer **left**, GR specialist **Will Jacobs with the OICW right**. Captured in stock CW:R with the r002 showcase addon.
+
+### Ready and idle animations
+
+![EAST ready pose and WEST GR combat idle variants](docs/media/idles.gif)
+
+EAST ready pose on the left, WEST GR combat idle variants on the right.
+
+### Russian low-carry sprint
+
+![Russian soldier sprinting with the rifle carried low in one hand](docs/media/russian-sprint.gif)
+
+Native EAST sprint animation with actual world movement and a following camera. The clip demonstrates the animation; it is not a speed benchmark.
+
+All gallery images and animation frames are native game captures. Camera placement, framing, resizing and GIF encoding are presentation work; no character or weapon details were generated or painted over. [Media notes and thumbnail setup](docs/Media.md).
 
 ## Play the test build
 
-1. Open **Releases** and download `GR-CWR-Showcase-r002.zip`. GitHub access to this private repository is required.
+1. Open **Releases** and download `GR-CWR-Showcase-r002.zip`. 
 2. Extract the whole ZIP into a writable folder. Keep the launchers beside `@DBS_GR_Showcase` and `Missions`.
 3. Run **Play_CWR_Showcase.cmd** for the normal game/editor, or **Preview_CWR_Showcase.cmd** for the sample lineup.
 4. If discovery cannot find CW:R, drag the Remastered `PoseidonGame.exe` onto the launcher, or pass its game folder as the first argument.

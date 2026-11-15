@@ -6,3 +6,5 @@
 *.pac binary
 *.rtm binary
 *.wav binary
+*.jpg binary
+*.gif binary
