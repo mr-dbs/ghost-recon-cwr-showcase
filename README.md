@@ -1,4 +1,4 @@
-# Ghost Recon conversion for CW:R â€” r002 test build
+# Ghost Recon conversion for CW:R r002 test build
 
 ![US and Russian soldiers staged in Montignac](docs/media/town-banner.jpg)
 
