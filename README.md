@@ -12,15 +12,21 @@ A conversion project bringing Ghost Recon characters, their custom animation rig
 
 ### BIS Officer and Will Jacobs
 
-![Default BIS WEST Officer on the left; Will Jacobs with the native GR OICW on the right](docs/media/officer-jacobs.jpg)
+![Default BIS WEST Officer on the left; Will Jacobs with the native GR OICW on the right](docs/media/officer-jacobs-v2.jpg)
 
 Default BIS WEST Officer **left**, GR specialist **Will Jacobs with the OICW right**. Captured in stock CW:R with the r002 showcase addon.
 
 ### Ready and idle animations
 
-![EAST ready pose and WEST GR combat idle variants](docs/media/idles.gif)
+![EAST ready pose and WEST GR combat idle variants](docs/media/idles-v2.gif)
 
 EAST ready pose on the left, WEST GR combat idle variants on the right.
+
+### NATO high-ready sprint
+
+![NATO GR rifleman sprinting with the rifle carried muzzle-up in one hand](docs/media/nato-sprint.gif)
+
+Native WEST high-ready sprint with the GR M4 and a following camera.
 
 ### Russian low-carry sprint
 
