@@ -1,10 +1,10 @@
-# Ghost Recon conversion for CW:R r002 test build
+# Ghost Recon conversion for CW:R r003 test build
 
 ![US and Russian soldiers staged in Montignac](docs/media/town-banner.jpg)
 
-**107 character entries · Custom GR rig and animations · Native GR weapons · Stock CW:R**
+**107 character entries Â· Custom GR rig and animations Â· Native GR weapons Â· Stock CW:R**
 
-[**Download r002**](https://github.com/mr-dbs/ghost-recon-cwr-showcase/releases/tag/r002) · [Installation](#play-the-test-build) · [Known limits](#validation-and-known-limits) · [Report a bug](https://github.com/mr-dbs/ghost-recon-cwr-showcase/issues/new/choose)
+[**Download r003**](https://github.com/mr-dbs/ghost-recon-cwr-showcase/releases/tag/r003) Â· [Installation](#play-the-test-build) Â· [Known limits](#validation-and-known-limits) Â· [Report a bug](https://github.com/mr-dbs/ghost-recon-cwr-showcase/issues/new/choose)
 
 A conversion project bringing Ghost Recon characters, their custom animation rig, movement and idle poses to Arma: Cold War Assault Remastered. Uses the public game executable: This version is missing other addons ECP, RHS, BAS, BWmod or MFCTI. Those addons were test for visual enhancements but increased the size of the addon into the gigs.
 
@@ -38,12 +38,20 @@ All gallery images and animation frames are native game captures. Camera placeme
 
 ## Play the test build
 
-1. Open **Releases** and download `GR-CWR-Showcase-r002.zip`. 
+1. Open **Releases** and download `GR-CWR-Showcase-r003.zip`. 
 2. Extract the whole ZIP into a writable folder. Keep the launchers beside `@DBS_GR_Showcase` and `Missions`.
 3. Run **Play_CWR_Showcase.cmd** for the normal game/editor, or **Preview_CWR_Showcase.cmd** for the sample lineup.
 4. If discovery cannot find CW:R, drag the Remastered `PoseidonGame.exe` onto the launcher, or pass its game folder as the first argument.
 
-Steam libraries on disconnected drives are skipped. Launchers use their own `.runtime` profile/cache and copy the demonstration into their private editor missions folder on first use. Existing edits to that private copy are preserved.
+**Use the release ZIP above, not Code → Download ZIP:** the source download has no compiled addon. Extract the ZIP before launching.
+
+If the window closes or the game will not start, run **Diagnose_Showcase.cmd**. Errors stay visible, and startup details are saved in `.runtime/logs/launcher-latest.txt`. To supply a Steam library explicitly, open PowerShell in the extracted folder and run:
+
+```powershell
+.\Play_CWR_Showcase.cmd "D:\SteamLibrary\steamapps\common\ARMA Cold War Assault\Remastered"
+```
+
+r003 updates the launchers only; the addon is unchanged from r002. Steam libraries on disconnected drives are skipped. Launchers use their own `.runtime` profile/cache and copy the demonstration into their private editor missions folder on first use. Existing edits to that private copy are preserved.
 
 Do **not** enable this alongside the older `@DBS_GhostRecon` development pack: both editions deliberately retain the same legacy class and asset names. Do not use original OFP/CWA executables; this build targets CW:R. The private test build already contains converted assets and does not presently extract them from a GR installation.
 
